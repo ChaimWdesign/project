@@ -1,0 +1,29 @@
+body{
+
+    background-image: url(view.jpg);
+    background-size:  cover;
+}
+
+h2:hover{
+   color: darkblue;
+   text-align:    center;
+
+      border: 10px solid lightblue ;
+   cursor:crosshair;
+
+}
+
+li{
+  list-style:               none;
+  display:              inline-block;
+}
+ h1, p {
+  color: 		skyblue;
+  text-align:     center;
+
+   cursor:       pointer;
+}
+
+h2{
+  text-align: center;
+}
